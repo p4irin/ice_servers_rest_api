@@ -1,0 +1,11 @@
+.git/
+.vscode/
+build/
+dist/
+venv/
+*.pyc
+__pycache__/
+instance/
+*.egg-info/
+.env
+SCRATCHPAD.md
